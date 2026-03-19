@@ -1,7 +1,0 @@
-{
-  "mappings": [
-    "/content/anchora-xwalk-block-collection/:/",
-    "/content/anchora-xwalk-block-collection/metadata:/metadata.json",
-    "/content/anchora-xwalk-block-collection/configuration:/.helix/config.json"
-  ]
-}
